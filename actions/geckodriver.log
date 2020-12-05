@@ -1,0 +1,7 @@
+1606232561057	geckodriver	INFO	Listening on 127.0.0.1:60341
+1606232562074	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/4j/mcyq36dj0972l00tx_0p6q500000gn/T/rust_mozprofileKcpzm2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606232566696	Marionette	INFO	Listening on port 60357
+1606232566816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1606232602567	Marionette	INFO	Stopped listening on port 60357
