@@ -1,0 +1,5 @@
+26/11/2020 05:12:35 PM - LoggindDemo - DEBUG: debug message
+26/11/2020 05:12:35 PM - LoggindDemo - INFO: info message
+26/11/2020 05:12:35 PM - LoggindDemo - WARNING: warn message
+26/11/2020 05:12:35 PM - LoggindDemo - ERROR: error message
+26/11/2020 05:12:35 PM - LoggindDemo - CRITICAL: critical message
